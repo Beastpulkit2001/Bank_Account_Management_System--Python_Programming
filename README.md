@@ -54,4 +54,4 @@
 <p>This project is open-source and can be modified and distributed freely.</p>
 
 <h2>Author</h2>
-<p>Developed by [Your Name]</p>
+<p>Developed by Pulkit Sharma</p>
