@@ -35,7 +35,7 @@ Python Programming Project
 <ol>
     <li>Clone this repository or copy the script.</li>
     <li>Install required dependencies using:</li>
-    <pre><code>pip install numpy emoji</code></pre>
+    <pre><code>pip install numpy emoji pandas</code></pre>
     <li>Run the script:</li>
     <pre><code>python bank_management.py</code></pre>
 </ol>
